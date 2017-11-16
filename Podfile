@@ -4,7 +4,6 @@ use_frameworks!
 
 target :Realm_text do
     
-    pod 'SnapKit'
     pod 'RealmSwift'
     
 end
